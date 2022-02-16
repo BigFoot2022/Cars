@@ -1,0 +1,56 @@
+.List {
+    display: block;
+    float: left;
+    margin: 0;
+    padding: 0;
+    overflow:hidden;
+    text-overflow: ellipsis;
+    background-color:rgb(61, 55, 55);
+    font-family: 'Lucida Sans', Verdana, sans-serif;
+}
+.Item1:hover { 
+    background: black; 
+}
+.Item2:hover {
+    background: rgb(69, 69, 240);
+}
+.Item3:hover {
+    background: rgb(57, 224, 99);
+}
+.Item4:hover {
+    background: rgb(206, 218, 52);
+}
+.Item1 {
+    display: block;
+    color: white;
+    text-align: center;
+    padding: 2vw;
+    text-decoration: none;
+}
+.Item2 {
+    display: block;
+    color: white;
+    text-align: center;
+    padding: 2vw;
+    text-decoration: none;
+}
+.Item3 {
+    display: block;
+    color: white;
+    text-align: center;
+    padding: 2vw;
+    text-decoration: none;
+}
+.Item4 {
+    display: block;
+    color: white;
+    text-align: center;
+    padding: 2vw;
+    text-decoration: none;
+}
+.Page {
+    background-image: url(lenar.jpg);
+    background-position: center center;
+    background-size: cover;
+    background-repeat: no-repeat;
+}
